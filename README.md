@@ -24,3 +24,5 @@ Uses the same resolution algorithm as require for maximum simplicity.  Built on 
 ## License
 
   MIT
+  
+![viewcount](https://viewcount.jepso.com/count/ForbesLindesay/ruglify.png)
