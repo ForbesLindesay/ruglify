@@ -1,7 +1,7 @@
 # ruglify
 
 [![Build Status](https://secure.travis-ci.org/ForbesLindesay/ruglify.png)](http://travis-ci.org/ForbesLindesay/ruglify)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/ruglify.svg)](https://gemnasium.com/ForbesLindesay/ruglify)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/ruglify.svg)](https://david-dm.org/ForbesLindesay/ruglify)
 
 "Require" minified JavaScript as a string
 
