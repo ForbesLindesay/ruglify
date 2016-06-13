@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
 # ruglify
 
 [![Build Status](https://secure.travis-ci.org/ForbesLindesay/ruglify.png)](http://travis-ci.org/ForbesLindesay/ruglify)
